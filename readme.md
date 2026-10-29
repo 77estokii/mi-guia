@@ -1,2 +1,6 @@
 # Mi primera guía
-Estoy aprendiendo git 
+
+Estoy aprendiendo git
+
+Soy Agustin.
+
